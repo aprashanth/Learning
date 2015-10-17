@@ -22,6 +22,6 @@ public class Calculator {
 
         System.out.println("40 + 2 = " + myApp.mathOperate(40, 2, addition));
         System.out.println("40 - 7 = " + myApp.mathOperate(40, 7, subtraction));
-        System.out.println();   
+        System.out.println("Help");
     }
 }
